@@ -1,2 +1,2 @@
 # video_streaming
-this project is created using socket programming in python
+This project has been created using Socket Programming in python.
